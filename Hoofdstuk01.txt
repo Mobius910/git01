@@ -9,7 +9,7 @@ Om die reden word er in zulke situaties gebruik gemaakt van versiebeheer.
 Versies worden automatisch gearchiveerd waardoor men gemakkelijk terug kan gaan naar een oudere versie, die in de database – de repository – opgeslagen is. 
 Een bijkomend voordeel is dat bij het archiveren bijgehouden wordt wie er wijzigingen doorvoerde en waarom. het merging van verschillende wijzigingen wordt met deze werkwijze ook vereenvoudigd.
 
-asfdddddddddddddddddddddddddddddddddddd
+asfddddddddddddddddddddddddddddddddddd
 
 asfdddddddddddddddddddddddddddddddddddd
 alle dt fouten weg
